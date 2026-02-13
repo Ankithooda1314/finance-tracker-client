@@ -8,7 +8,7 @@
   import axios from "axios";
 
 export const api = axios.create({
-  baseURL: "http://localhost:5000",
+  baseURL: "https://finance-server-zm02.onrender.com",
 });
 
 // auto attach JWT token

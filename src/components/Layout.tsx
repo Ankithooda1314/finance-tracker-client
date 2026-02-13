@@ -55,7 +55,7 @@ export default function Layout({ children }: any) {
   };
 
   return (
-    <div className="flex min-h-screen bg-gradient-to-br from-gray-950 via-gray-900 to-black text-white">
+    <div className="flex min-h-screen bg-gradient-to-brfrom-gray-950 via-gray-900 to-black text-white">
 
       {/* Sidebar */}
       <div className="w-64 p-6 backdrop-blur-xl bg-white/5 border-r border-white/10 shadow-xl">
